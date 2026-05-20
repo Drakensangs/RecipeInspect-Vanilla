@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: RecipeInspect
+## Notes: Ctrl+Click recipes to preview their crafted item in the dressing room frame.
+## Author: Drakensangs
+## Version: 1.0
+
+RecipeDB.lua
+RecipeInspect.lua
+Compatibility.lua
